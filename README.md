@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Whatsapp Svelte](https://github.com/Davide-Rossini/whatsapp-svelte.1)
+- 🔭 I’m currently working on [Quiz PHP](https://github.com/Davide-Rossini/quiz-daver)
 
 - 🌱 I’m currently learning **Svelte, MySQL, React**
 
