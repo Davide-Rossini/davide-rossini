@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Quiz PHP](https://github.com/Davide-Rossini/quiz-daver)
 
-- 🌱 I’m currently learning **Svelte, MySQL, React**
+- 🌱 I’m currently learning **Flask, MySQL, React**
 
 - 📫 How to reach me **rossini.davide709@gmail.com**
 
