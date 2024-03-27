@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Software and Frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Davide-Rossini&label=Profile%20views&color=0e75b6&style=flat" alt="Davide-Rossini" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Davide-Rossini&theme=onedark" alt="Davide-Rossini" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Davide-Rossini&theme=default" alt="Davide-Rossini" /></a> </p>
 
 - 🔭 I’m currently working on [Quiz PHP](https://github.com/Davide-Rossini/quiz-daver)
 - 🌱 I’m currently learning **Flask, MySQL, React**
@@ -15,7 +15,7 @@
 <a href = "mailto:rossini.davide709@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/davide-rossini-" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="davide-rossini-" height="30" width="40" /></a><a href="https://stackoverflow.com/users/21568106/davide-rossini" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="davide-rossini" height="30" width="40" /></a><a href="https://instagram.com/davide__rossini__" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="davide__rossini__" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/davide-rossini-" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="davide-rossini-" height="30" width="40" /></a><a href="https://stackoverflow.com/users/davide-rossini" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="davide-rossini" height="30" width="40" /></a><a href="https://instagram.com/davide__rossini__" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="davide__rossini__" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -40,22 +40,22 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davide-Rossini&hide_progress=true&theme=vue-dark" alt=Davide-Rossini />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davide-Rossini&hide_progress=true&theme=default" alt=Davide-Rossini />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Davide-Rossini&show_icons=true&locale=en&theme=merko" alt="Davide-Rossini" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Davide-Rossini&show_icons=true&locale=en&theme=default" alt="Davide-Rossini" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Davide-Rossini&theme=tokyonight" alt="Davide-Rossini" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Davide-Rossini&theme=default" alt="Davide-Rossini" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Davide-Rossini">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Davide-Rossini&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davide-Rossini&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Davide-Rossini&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Davide-Rossini&theme=moonlight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davide-Rossini&theme=moonlight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Davide-Rossini&theme=default" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davide-Rossini&theme=default" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Davide-Rossini&theme=default" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Davide-Rossini&theme=default" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davide-Rossini&theme=default" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Davide-Rossini&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Davide-Rossini&theme=default"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
