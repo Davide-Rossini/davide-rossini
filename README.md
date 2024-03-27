@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Davide Rossini</h1>
 <h3 align="center">I'm a passionate Software and Frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Davide-Rossini&label=Profile%20views&color=0e75b6&style=flat" alt="Davide-Rossini" /> </p>
@@ -16,7 +15,7 @@
 <a href = "mailto:rossini.davide709@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/davide-rossini-" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="davide-rossini-" height="30" width="40" /></a><a href="https://stackoverflow.com/users/davide-rossini" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="davide-rossini" height="30" width="40" /></a><a href="https://instagram.com/davide__rossini__" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="davide__rossini__" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/davide-rossini-" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="davide-rossini-" height="30" width="40" /></a><a href="https://stackoverflow.com/users/21568106/davide-rossini" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="davide-rossini" height="30" width="40" /></a><a href="https://instagram.com/davide__rossini__" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="davide__rossini__" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
