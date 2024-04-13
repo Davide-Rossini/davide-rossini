@@ -4,8 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Davide-Rossini&theme=default" alt="Davide-Rossini" /></a> </p>
 
-- 🔭 I’m currently working on [Quiz PHP](https://github.com/Davide-Rossini/quiz-daver)
-- 🌱 I’m currently learning **Flask, MySQL, React**
+- 🌱 I’m currently learning **Flask, MySQL, React, React-Native**
 
 - 📫 How to reach me **rossini.davide709@gmail.com**
 
